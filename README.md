@@ -1,2 +1,0 @@
-# Lkz
-começando a aprender
