@@ -4,7 +4,7 @@ Função while
 
 #        Indices
 #        0123456789.......................33...............
-phrase = "The rat gnawed at the clothes of the king of Rome"
+phrase = "The rat gnawed at the clothes of the king of rome"
 size_phrase = len(phrase)
 temp = 0
 new = ""
