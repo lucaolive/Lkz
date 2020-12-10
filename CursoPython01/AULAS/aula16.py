@@ -41,5 +41,5 @@ while True:
     elif operador == "*":
         print(num1 * num2)
     else:
-        print("Unavailable Operator! ")
+        print("Unavailable Operator!")
 
