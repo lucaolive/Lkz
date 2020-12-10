@@ -13,5 +13,5 @@ if hora.isdigit():
         else:
             print("Boa noite!")
 else:
-    print("Please, Write a time in beetween 0 and 23.")
+    print("Please, Write a time in beetween 0 and 23. ")
 

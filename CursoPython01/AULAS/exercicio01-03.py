@@ -7,4 +7,4 @@ if intnum.isnumeric():
     else:
         print(f"The number {intnum} is impar.")
 else:
-    print("Error, please write a number.")
+    print("Error, please write a number. ")
